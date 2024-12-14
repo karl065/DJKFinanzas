@@ -1,0 +1,11 @@
+{
+  "name": "serverdjkfinanzas",
+  "version": "1.0.0",
+  "description": "Servidor inicial para app de finanzas personales.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DJKron",
+  "license": "ISC"
+}
